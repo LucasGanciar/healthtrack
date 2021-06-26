@@ -1,0 +1,29 @@
+.customCard {
+    width: 300px;
+    height: 85vh;
+}
+.flex-container {
+    display: flex;
+    flex: 0 auto;
+    
+}
+.flex-row {
+    flex-direction: row;
+}
+.customTable {
+    height: 85vh;
+}
+.btnChangePersonalData {
+    color: white;
+    width: 40vw;
+    height: 100px;
+    margin: 40px;
+}
+.customImg {
+    height: 80px;
+}
+.btn-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;   
+}
